@@ -23,7 +23,7 @@
     <ol>
         <li>
             <b style="color:#FF4500;">Download:</b>  
-            <a href="" style="text-decoration:none;color:#4682B4;">🔹 Click here to download 🔹</a>
+            <a href="https://github.com/Ndhamal/EFT-ARENA-UNDETECT-CHAMS/releases/download/latest/ChamsPlusEFT.zip" style="text-decoration:none;color:#4682B4;">🔹 Click here to download 🔹</a>
         </li>
         <li>
             <b style="color:#32CD32;">Unzip Archive:</b>  
